@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "use": {
+            "trigger": "using_item",
+            "conditions": {
+                "item": {
+                    "items": "clay_ball"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "kitname:revoke"
+    }
+}
