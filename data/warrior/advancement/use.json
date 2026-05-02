@@ -4,12 +4,12 @@
             "trigger": "using_item",
             "conditions": {
                 "item": {
-                    "items": "clay_ball"
+                    "items": "iron_sword"
                 }
             }
         }
     },
     "rewards": {
-        "function": "kitname:revoke"
+        "function": "warrior:revoke"
     }
 }

@@ -1,3 +1,3 @@
 clear @s
-tag @s add kitname
+tag @s add warrior
 #kit give func
