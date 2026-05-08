@@ -4,7 +4,7 @@ item replace entity @a[tag=warrior] hotbar.0 with iron_sword[consumable={consume
 
 # Armor
 
-item replace entity @a[tag=Warrior,tag=!Lobby] hotbar.0 with iron_sword[custom_name=[{"text":"Short Sword","italic":false}],lore=[[{"text":"A warriors most important weapon.","italic":false}]],unbreakable={},consumable={consume_seconds:0.05,has_consume_particles:false},use_cooldown={seconds:25}]
+item replace entity @a[tag=Warrior,tag=!Lobby] hotbar.0 with iron_sword[custom_name=[{"text":"Short Sword","italic":false}],lore=[[{"text":"A warriors most important weapon. [Right Click for Ability!]","italic":false}]],unbreakable={},consumable={consume_seconds:0.05,has_consume_particles:false},use_cooldown={seconds:25}]
 
 item replace entity @a[tag=Warrior] armor.feet with minecraft:iron_boots[minecraft:unbreakable={}]
 
